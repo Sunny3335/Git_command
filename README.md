@@ -23,3 +23,7 @@
 
 #git merge dev --> we have to merge the other branch first i have to come on the head branch
 then all the branch would be on the same position
+
+#git stash --> used to save the temporary file while we are working on different files.
+
+#git stash apply --> used to comeback the hidden or temporary files.
