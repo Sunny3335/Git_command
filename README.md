@@ -29,3 +29,11 @@ then all the branch would be on the same position
 #git stash --> used to save the temporary file while we are working on different files.
 
 #git stash apply --> used to comeback the hidden or temporary files.
+
+#git remote -v --> to check the remote branch
+
+#git push origin master --> to push all code on the remote.
+
+#git checkout -b (branch_name)  --> to create new branch
+
+#git checkout (branch_name) ---> go to the new branch
