@@ -21,4 +21,5 @@
 #git branch dev --> it will only create the new branch but it is still on the master branch so to go to the new branch we have to do checkout that branch so we used
 #git checkout dev
 
-
+#git merge dev --> we have to merge the other branch first i have to come on the head branch
+then all the branch would be on the same position
